@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tristan-festival",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He he found you other Tristan"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh oh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tristan-festival",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "then  let's rap instead"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok then let's rap"
+		}
+	]
+}

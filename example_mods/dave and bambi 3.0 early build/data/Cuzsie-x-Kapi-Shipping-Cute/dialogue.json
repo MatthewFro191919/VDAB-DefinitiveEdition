@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hey Kapi wanna rap",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cuzsiee"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kapi"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok we can rap now",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cuzsiee"
+		}
+	]
+}

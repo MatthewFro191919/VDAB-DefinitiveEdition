@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				61875,
+				[
+					[
+						"Change Character",
+						"1",
+						"dave-angey"
+					]
+				]
+			],
+			[
+				62250,
+				[
+					[
+						"Change Character",
+						"1",
+						"dave-annoyed"
+					]
+				]
+			],
+			[
+				63750,
+				[
+					[
+						"Change Character",
+						"1",
+						"dave-angey"
+					]
+				]
+			],
+			[
+				64125,
+				[
+					[
+						"Change Character",
+						"1",
+						"dave-annoyed"
+					]
+				]
+			],
+			[
+				110250,
+				[
+					[
+						"Change Character",
+						"1",
+						"dave-angey"
+					]
+				]
+			],
+			[
+				110625,
+				[
+					[
+						"Change Character",
+						"1",
+						"dave-scared"
+					]
+				]
+			]
+		]
+	}
+}

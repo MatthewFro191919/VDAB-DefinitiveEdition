@@ -1,0 +1,44 @@
+{
+	"storyName": "Bambi's Master week!",
+	"difficulties": "Normal,",
+	"hideFreeplay": false,
+	"weekBackground": "masterweek",
+	"weekBefore": "Bambi-joke",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"supernovae",
+			"Bambi-joke",
+			[
+				0,
+				173,
+				0
+			]
+		],
+		[
+			"glitch",
+			"Bambi-joke",
+			[
+				0,
+				173,
+				0
+			]
+		],
+		[
+			"master",
+			"Bambi-joke",
+			[
+				0,
+				173,
+				0
+			]
+		]
+	],
+	"weekName": "Week mr Bambi"
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				55,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-16,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				22,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				81
+			],
+			"anim": "break",
+			"fps": 24,
+			"name": "phone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				8
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "look",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "al",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				23
+			],
+			"anim": "singThrow",
+			"fps": 24,
+			"name": "thr",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bambi/bambiRemake",
+	"position": [
+		37,
+		420
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		191,
+		55
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

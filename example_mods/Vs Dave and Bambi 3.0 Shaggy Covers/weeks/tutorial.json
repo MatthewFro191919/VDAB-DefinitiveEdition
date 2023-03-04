@@ -1,0 +1,31 @@
+{
+	"storyName": "tutorial",
+	"difficulties": "Normal,",
+	"hideFreeplay": false,
+	"weekBackground": "warmup",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		15,
+		95,
+		255
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"warmup",
+			"Dave",
+			[
+				15,
+				95,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bonus-song week"
+}

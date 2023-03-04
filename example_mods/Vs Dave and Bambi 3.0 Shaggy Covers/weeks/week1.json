@@ -1,0 +1,44 @@
+{
+	"storyName": "Dave's fun rapping battle!",
+	"difficulties": "Normal,",
+	"hideFreeplay": false,
+	"weekBackground": "DaveHouse",
+	"weekBefore": "dave",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"house",
+			"dave",
+			[
+				15,
+				95,
+				255
+			]
+		],
+		[
+			"insanity",
+			"dave-annoyed",
+			[
+				15,
+				95,
+				255
+			]
+		],
+		[
+			"polygonized",
+			"dave-angey",
+			[
+				235,
+				140,
+				100
+			]
+		]
+	],
+	"weekName": "Week Dave"
+}

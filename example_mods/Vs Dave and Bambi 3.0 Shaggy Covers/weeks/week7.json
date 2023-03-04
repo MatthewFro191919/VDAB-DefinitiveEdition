@@ -1,0 +1,51 @@
+{
+	"storyName": "Expunged Week",
+	"difficulties": "",
+	"weekBackground": "",
+	"hideFreeplay": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cheating",
+			"bambi-3d",
+			[
+				53,
+				189,
+				59
+			]
+		],
+		[
+			"unfairness",
+			"bambi-unfair",
+			[
+				239,
+				0,
+				0
+			]
+		],
+		[
+			"Exploitation",
+			"expunged",
+			[
+				145,
+				1,
+				1
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekColor": "0x00ffff",
+	"hiddenUntilUnlocked": false,
+	"weekName": "expunged"
+}

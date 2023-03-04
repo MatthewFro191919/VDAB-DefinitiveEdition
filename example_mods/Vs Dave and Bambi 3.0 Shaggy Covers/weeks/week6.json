@@ -1,0 +1,111 @@
+{
+	"storyName": "bonus-song",
+	"difficulties": "Normal,",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bonus-song",
+			"dave",
+			[
+				15,
+				95,
+				255
+			]
+		],
+		[
+			"bot-trot",
+			"playrobot",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Escape-From-California",
+			"moldy",
+			[
+				0,
+				0,
+				60
+			]
+		],
+		[
+			"Five-nights",
+			"dave",
+			[
+				15,
+				95,
+				255
+			]
+		],
+		[
+			"Adventure",
+			"tristan",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Overdrive",
+			"dave-awesome",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Mealie",
+			"bambi-loser",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Indignancy",
+			"bambi-angey",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Memory",
+			"dave",
+			[
+				15,
+				95,
+				255
+			]
+		],
+		[
+			"Recursed",
+			"recurser",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "bonus-song week"
+}

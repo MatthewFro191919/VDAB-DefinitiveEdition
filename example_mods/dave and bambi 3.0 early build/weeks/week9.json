@@ -1,0 +1,50 @@
+{
+	"storyName": "Scrapped Dave and Bambi 3.0 songs part 2",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"bananacore",
+			"old/the-trio",
+			[
+				232,
+				92,
+				228
+			]
+		],
+		[
+			"eletric-cockadoodledoo",
+			"the-trio",
+			[
+				228,
+				85,
+				81
+			]
+		],
+		[
+			"eletric-cockadoodledoo-v2",
+			"v2/the-squad",
+			[
+				228,
+				85,
+				81
+			]
+		]
+	],
+	"weekCharacters": [
+		"questionmark",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Scrapped Dave and Bambi 3.0 songs"
+}
